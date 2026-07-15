@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Carter Greer 
 
-<!--
-**Carter-Greer/Carter-Greer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software developer with experience in software development, data analysis, and IT. I'm passionate about building practical applications and solving real-world problems.
 
-Here are some ideas to get you started:
+## Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- C#
+- Java
+- JavaScript
+- SQL
+- HTML/CSS
+- .NET
+- Git
+- Power BI
+
+## Currently Working On
+
+- Expanding my software development portfolio
+- Learning more about backend development and cloud technologies
+
+## Featured Projects
+
+- Employee Management System
+- MLB Statistics Dashboard
+- Weather API Application
+- Task Management App
+
+## Connect With Me
